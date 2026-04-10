@@ -7,6 +7,7 @@ A marketplace of Claude Code plugins by [DiologIR](https://github.com/DiologIR).
 | Plugin | Description |
 |--------|-------------|
 | **discovery-sentinel** | Analyze product discovery and customer feedback documents using the Discovery Sentinel persona. Produces structured Feedback Classification Reports, Discovery Insight Briefs, and Prioritised Opportunity Assessments. |
+| **product-strategist** | Generate validated, prioritized product feature concepts and outcome-based roadmaps for AI-assisted IR/compliance/governance SaaS. Supports feature ideation, roadmap construction, feature evaluation, data ingestion, and comparative prioritization. |
 
 ## Installation
 
@@ -20,6 +21,7 @@ A marketplace of Claude Code plugins by [DiologIR](https://github.com/DiologIR).
 
 ```
 /plugin install discovery-sentinel@diolog-plugins
+/plugin install product-strategist@diolog-plugins
 ```
 
 ## Contributing
